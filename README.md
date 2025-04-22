@@ -36,7 +36,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,solidity,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,python,go" />
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,scss,nodejs,express,ipfs" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" />
   <img src="https://skillicons.dev/icons?i=linux,vim,lua" />
